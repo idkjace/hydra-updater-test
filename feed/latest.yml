@@ -1,0 +1,8 @@
+version: 9.9.9
+files:
+  - url: hydra-update-dummy-9.9.9.txt
+    sha512: GX1TzN1tBalIluhpsVh1erXkrbtMdLhpXlg9gA0/y5ca/Awb3wbW+d78rG+bl53uL/xnfhpWGPcFA4mdyVcFbg==
+    size: 164
+path: hydra-update-dummy-9.9.9.txt
+sha512: GX1TzN1tBalIluhpsVh1erXkrbtMdLhpXlg9gA0/y5ca/Awb3wbW+d78rG+bl53uL/xnfhpWGPcFA4mdyVcFbg==
+releaseDate: '2026-10-28T16:44:13.664Z'

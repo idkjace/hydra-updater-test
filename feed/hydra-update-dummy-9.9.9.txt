@@ -1,0 +1,3 @@
+Hydra launcher updater dummy.
+
+This file is not an installer. electron-updater can detect version 9.9.9 and download this asset. Installing it is supposed to fail.
